@@ -11,6 +11,12 @@ CAD: https://cad.onshape.com/documents/129dc57b75a629234258d945/w/393048bd49f904
 
 Update history:
 
+v1.5.1
+- updated STEP files of assemblies to include sensors
+
+v1.5
+- reoriented all files so they are in the correct printing orientation when downloaded
+
 v1.4
 - added camera mount (non-Axon version only)
 - modified servo mount and Viper adapter to fit camera mount
