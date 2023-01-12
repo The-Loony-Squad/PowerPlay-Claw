@@ -11,24 +11,24 @@ CAD: https://cad.onshape.com/documents/129dc57b75a629234258d945/w/393048bd49f904
 
 Update history:
 
-v1.5.1
+v1.5.1 (1-11-23)
 - updated STEP files of assemblies to include sensors
 
-v1.5
+v1.5 (1-11-23)
 - reoriented all files so they are in the correct printing orientation when downloaded
 
-v1.4
+v1.4 (1-10-23)
 - added camera mount (non-Axon version only)
 - modified servo mount and Viper adapter to fit camera mount
 
-v1.3
+v1.3 (1-9-23)
 - added support for mounting sensors
 - added silicone molds and addiitonal claw variants for use with silicone liners
 
-v1.2
+v1.2 (11-16-22)
 - reworked servo mounts to not require goBILDA L-beams
 
-v1.1
+v1.1 (11-11-22)
 - added adapter to mount claw directly to goBILDA Viper Slides
 
 
