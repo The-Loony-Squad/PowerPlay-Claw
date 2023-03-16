@@ -9,6 +9,8 @@ CAD: https://cad.onshape.com/documents/129dc57b75a629234258d945/w/393048bd49f904
 
 *Note about updates: Unless a part is completely outphased by a new update, the original STL is kept in the repository. Please be cognisant when downloading the correct files for the version of the claw you want to build. The date of the push and the update version number will tell you what version a given part is.*
 
+*CRITICAL NOTE: This GitHub repository only exists for legacy reasons. As of version 1.8, all version will rely on Onshape configurations for customizability. For this reason, the repository will stay at v1.7.* 
+
 Update history:
 
 v1.5.1 (1-11-23)
